@@ -1,6 +1,6 @@
 {
   "configs": {
-    isPublic: true,
-    darkMode: false
+    "isPublic": true,
+    "darkMode": false
   }
 }
